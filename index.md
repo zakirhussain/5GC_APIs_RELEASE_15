@@ -1,6 +1,6 @@
 # OpenAPI Specification Files for 3GPP 5G Core Network (Release 15)
 
-[![Build Status](https://travis-ci.org/jdegre/5GC_APIs_RELEASE_15.svg?branch=master)](https://travis-ci.org/jdegre/5GC_APIs_RELEASE_15)
+[![Build Status](https://travis-ci.org/jdegre/5GC_APIs.svg?branch=master)](https://travis-ci.org/jdegre/5GC_APIs_RELEASE_15)
 
 The files in this repository have been created by 3GPP, and the master source can be found in the [3GPP site](http://www.3gpp.org/DynaReport/23-series.htm), as part of the official 3GPP Technical Specifications.
 ```
